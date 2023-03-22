@@ -6,4 +6,4 @@ function createVideo(url, height, width) {
     nuevoVideo.render();
     }
 
-createVideo( "documentacion/videoejemplo.MP4", "200", "300");
+createVideo("https://www.youtube.com/embed/R_5AwR27wj4", "200", "300");
